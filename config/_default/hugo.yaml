@@ -1,0 +1,6 @@
+baseURL: https://start.razonyang.com/
+copyright: Copyright © 2023-{year} [Razon Yang](https://razonyang.com/). All Rights Reserved.
+title: Start Page
+
+build:
+  writeStats: true

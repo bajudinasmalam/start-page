@@ -1,0 +1,31 @@
+description: Razon Yang's start page.
+
+hb:
+  logo: images/logo.jpg
+  header:
+    socials:
+      github: razonyang
+      paypal: razonyang
+      kofi: razonyang
+  # theme_start:
+    # search_engines:
+    #   google:
+    #     weight: 1
+    #   bing:
+    #     weight: 2
+    #   baidu:
+    #     weight: 3
+    #   duckduckgo:
+    #     weight: 4
+    #   wikipedia:
+    #     disable: false
+    #   yahoo:
+    #     disable: false
+    #   yandex:
+    #     disable: false
+    #   sogou:
+    #     disable: false
+
+seo:
+  favicons:
+    icon: images/logo.jpg
