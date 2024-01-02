@@ -9546,7 +9546,9 @@ body {
   @media (max-width: 575.98px) {
     body {
       background-image: url("/images/background_hu3d03a01dcc18bc5be0e67db3d8d209a6_314092_1920x0_resize_q75_h2_box.webp"); } }
-
+[data-bs-theme="light"] body {
+  background-color: #ffffff;
+  background-blend-mode: multiply; }
 
 .language-picker-menu {
   --hb-dropdown-min-width: 4rem; }
