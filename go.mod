@@ -1,6 +1,6 @@
 module github.com/razonyang/start-page
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/hbstack/footer v0.2.4 // indirect
