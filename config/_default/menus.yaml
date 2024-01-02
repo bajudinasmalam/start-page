@@ -1,6 +1,6 @@
 main:
   - name: Home
-    url: https://razonyang.com/
+    url: https://bajudinasmalam.id/
     params:
       icon:
         vendor: bs

@@ -1,12 +1,12 @@
 description: Razon Yang's start page.
 
 hb:
-  logo: images/logo.jpg
+  logo: images/logo.png
   header:
     socials:
-      github: razonyang
-      paypal: razonyang
-      kofi: razonyang
+      github: bajudinasmalam
+      paypal: lingerieindonesia
+      kofi: lingerieindonesia
   # theme_start:
     # search_engines:
     #   google:
@@ -28,4 +28,4 @@ hb:
 
 seo:
   favicons:
-    icon: images/logo.jpg
+    icon: images/logo.png
