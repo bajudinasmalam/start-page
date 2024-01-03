@@ -4,10 +4,10 @@ hb:
   logo: images/logo.png
   header:
     socials:
-      github: bajudinasmalam
-      paypal: lingerieindonesia
-      kofi: lingerieindonesia
-  start-page:
+      github: 
+      paypal: 
+      kofi: 
+  theme_start:
     search_input_text: bajudinasmalam.id
   # theme_start:
     # search_engines:
