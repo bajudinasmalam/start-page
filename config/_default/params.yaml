@@ -7,7 +7,7 @@ logo: images/logo.png
       github: test
       paypal: test
       kofi: test
-  start-page:
+  theme_start:
     search_input_text: "test"
   # theme_start:
     # search_engines:
