@@ -3,8 +3,8 @@ main:
     url: https://bajudinasmalam.id/
     params:
       icon:
-        vendor: bs
-        name: house
+        vendor: lingerieindonesia
+        name: lingerieindonesia
 
 apps:
   - name: Projects
