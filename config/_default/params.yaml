@@ -1,13 +1,15 @@
-description: Building your own fast, responsive, modern and minimalist start page
+description: Jual Baju Dinas Malam Lingerie Bikini Kostum Halloween Terlengkap Terbaru dan Terbaik se indonesia dan kota medan.
 
 hb:
+  logo: images/logo.jpg
   header:
     socials:
-      github: hbstack/theme-start
-      paypal: razonyang
-      kofi: razonyang
-  start-page:
-    search_input_text: HB Framework
+      github: bajudinasmalam/start-page
+      paypal: lingerieindonesia
+      kofi: lingerieindonesia
+  theme_start:
+    search_input_text: "HB Framework"
+  # theme_start:
     # search_engines:
     #   google:
     #     weight: 1
@@ -25,3 +27,7 @@ hb:
     #     disable: false
     #   sogou:
     #     disable: false
+
+seo:
+  favicons:
+    icon: images/logo.jpg
