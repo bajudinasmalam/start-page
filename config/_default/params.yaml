@@ -1,15 +1,13 @@
-description: Jual Baju Dinas Malam Lingerie Bikini Kostum Halloween Terlengkap Terbaru dan Terbaik se indonesia dan kota medan
+description: Building your own fast, responsive, modern and minimalist start page
 
 hb:
-logo: images/logo.png
   header:
     socials:
-      github: lingerieindonesia
-      paypal: lingerieindonesia
-      kofi: lingerieindonesia
+      github: hbstack/theme-start
+      paypal: razonyang
+      kofi: razonyang
   theme_start:
-    search_input_text: est
-  # theme_start:
+    search_input_text: HB Framework
     # search_engines:
     #   google:
     #     weight: 1
@@ -27,7 +25,3 @@ logo: images/logo.png
     #     disable: false
     #   sogou:
     #     disable: false
-
-seo:
-  favicons:
-    icon: images/logo.png
