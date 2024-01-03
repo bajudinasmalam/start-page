@@ -1,13 +1,14 @@
 description: Jual Baju Dinas Malam Lingerie Bikini Kostum Halloween Terlengkap Terbaru dan Terbaik se indonesia dan kota medan
 
 hb:
+logo: images/logo.png
   header:
-    socials:
-      github: 
-      paypal: 
-      kofi: 
+    socials:test
+      github: test
+      paypal: test
+      kofi: test
   start-page:
-    search_input_text: https://bajudinasmalam.id
+    search_input_text: test
   # theme_start:
     # search_engines:
     #   google:
