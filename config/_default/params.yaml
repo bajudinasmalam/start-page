@@ -9,7 +9,7 @@ hb:
       instagram: lingerieindonesia
   theme_start:
     search_input_text: bajudinasmalam.id
-  hugopress:
+hugopress:
   modules:
     custom:
       hooks:
