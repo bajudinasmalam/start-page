@@ -22,6 +22,8 @@ github.com/hbstack/socials v0.9.0 h1:Lru22qqydHTcBJkkYlsk0Dl91IuZPLWBpr+BQB6d87U
 github.com/hbstack/socials v0.9.0/go.mod h1:8H+ztN27J59oWcQyQTFj95HsauF2a22GXqQlNMGTQw4=
 github.com/hbstack/theme-start v0.3.2 h1:sSrZKdOWTYjHXTcz3ViyaggPzxiHOZqvYrpnm/dDnPU=
 github.com/hbstack/theme-start v0.3.2/go.mod h1:ofVpWgfyKaJ0eBZmDBK/wDE6nl+VYaH8qwIW7N96xyE=
+github.com/hbstack/theme-start v0.4.0 h1:To0xmnA8xNOANOfl/iltC05LzL0629jutOxP116+vjg=
+github.com/hbstack/theme-start v0.4.0/go.mod h1:L+XdMiKvwYBlbBb/3P04kWSAj18I1p6nMpiTns96kl0=
 github.com/hbstack/theme-start/engines/baidu v0.1.1 h1:f0KoZhZztmzCcxW925AVyJK/DrRfD3rZF/G1+TYAYyM=
 github.com/hbstack/theme-start/engines/baidu v0.1.1/go.mod h1:NBXrSy7wcGxP39HtD+U1z4gyb1YZIXXiedHx5KTB65I=
 github.com/hbstack/theme-start/engines/bing v0.1.1 h1:r5+qj2GdtKqN/D2dczzTL9e+ToDGyXDuvNvyvmc3NUA=

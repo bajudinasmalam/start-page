@@ -14,7 +14,7 @@ require (
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.4.3 // indirect
 	github.com/hbstack/socials v0.9.0 // indirect
-	github.com/hbstack/theme-start v0.3.2 // indirect
+	github.com/hbstack/theme-start v0.4.0 // indirect
 	github.com/hbstack/theme-start/engines/baidu v0.1.1 // indirect
 	github.com/hbstack/theme-start/engines/bing v0.1.1 // indirect
 	github.com/hbstack/theme-start/engines/duckduckgo v0.1.1 // indirect
