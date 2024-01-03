@@ -1,6 +1,8 @@
 description: Razon Yang's start page.
 
 hb:
+  theme_start:
+    search_input_text: "bajudinasmalam.id"
   logo: images/logo.png
   header:
     socials:
