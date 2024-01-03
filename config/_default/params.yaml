@@ -4,9 +4,9 @@ hb:
 logo: images/logo.png
   header:
     socials:
-      github: test
-      paypal: test
-      kofi: test
+      github: lingerieindonesia
+      paypal: lingerieindonesia
+      kofi: lingerieindonesia
   theme_start:
     search_input_text: "test"
   # theme_start:
