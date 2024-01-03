@@ -10,7 +10,7 @@ hb:
   theme_start:
     search_input_text: bajudinasmalam.id
 hugopress:
-  modules:
+   modules:
     custom:
       hooks:
         head-end:
