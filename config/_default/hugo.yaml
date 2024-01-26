@@ -1,6 +1,6 @@
 baseURL: https://bajudinasmalam.netlify.app/
 copyright: Copyright © Lingerieindonesia-{year}
-title: Lingerieindonesia - Lihat Toko Klik Kaca Pembesar / Search 
+title: Lingerieindonesia
 
 build:
   writeStats: true
