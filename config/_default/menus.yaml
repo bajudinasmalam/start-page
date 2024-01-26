@@ -6,7 +6,7 @@ main:
         vendor: lingerieindonesia
         name: lingerieindonesia
   - name: Privacy Policy
-    url: https://bajudinasmalam.id/
+    url: /privacy-policy.html
     params:
       icon:
         vendor: lingerieindonesia
