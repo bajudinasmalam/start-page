@@ -1,6 +1,6 @@
 main:
   - name: Home
-    url: https://bajudinasmalam.id/
+    url: #
     params:
       icon:
         vendor: lingerieindonesia
